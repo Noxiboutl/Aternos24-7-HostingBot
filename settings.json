@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chahboune.aternos.me:58643",
+    "ip": "chahboune.aternos.me",
     "port": 58643,
     "version": "",
     "try-creative": false
